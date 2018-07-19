@@ -1,0 +1,16 @@
+{
+  "name": "examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "error": "ls directory_that_doesnt_exist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
