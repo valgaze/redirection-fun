@@ -1,7 +1,9 @@
 ## Redirection Fun
 
-See the companion blog-post here:
+All about redirection!
 
-See the "cheat sheet" here:
+See the companion blog-post here: [link]()
+
+See the "cheat sheet" here: [cheatsheet](./cheatsheet.md)
 
 This repo contains an **[example](./example)** directory which has several practical examples of redirection

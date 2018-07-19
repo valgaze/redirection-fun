@@ -8,8 +8,10 @@ Does the following look confusing?
 
 ```
 
-Companion blog post here:
-Shorter cheat-sheet version here: 
+Companion blog post here: [link]()
+
+
+Shorter cheat-sheet version here: [link](../cheatsheet.md) 
 
 Once you've read the above, try the example below: 
 
